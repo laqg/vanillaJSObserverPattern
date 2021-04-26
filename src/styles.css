@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+.suscribed {
+  color: green;
+}
+.unsuscribed {
+  color: red;
+}
